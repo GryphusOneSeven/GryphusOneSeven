@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaël, a simple developer from Reunion Island
+### Hi there 👋 I'm Gaël, a simple but passionate developer from Reunion Island
 
 - 🔭 I’m currently working on **my professional career**
 - 👯 You can see my projects at: https://github.com/GryphusOneSeven?tab=repositories
